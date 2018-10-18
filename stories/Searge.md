@@ -37,6 +37,8 @@
 > Art is solving problems that cannot be formulated before they have been solved.
 '[Piet Hein](https://en.wikiquote.org/wiki/Piet_Hein#Quotes)'
 
+[![Я на Stack Overflow](https://cdn.sstatic.net/Img/logo-so.svg)](https://stackoverflow.com/story/searge)
+
 https://github.com/Searge/our-stories/blob/master/stories/Searge.md
 
 ---
